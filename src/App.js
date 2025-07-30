@@ -106,8 +106,7 @@ const App = () => {
       title: "React.js Course",
       organization: "Tutedude",
       date: "May 2025",
-      image:
-        "https://via.placeholder.com/400x300/7c2d12/ffffff?text=React.js+Course",
+      image: "/certificateReact.jpg",
     },
     {
       id: 5,
