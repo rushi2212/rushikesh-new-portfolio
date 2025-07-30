@@ -107,6 +107,7 @@ const App = () => {
       organization: "Tutedude",
       date: "May 2025",
       image: "/certificateReact.jpg",
+      certificateId: "TD-RUSH-RJ-1252",
     },
     {
       id: 5,
